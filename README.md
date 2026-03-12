@@ -36,5 +36,5 @@ Used to identify the "regime" of the asset (e.g., Adani Ports):
 
 1. **Clone the Project**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/QuantStream.git](https://github.com/YOUR_USERNAME/QuantStream.git)
+   git clone [https://github.com/Aricode2005/QuantStream.git](https://github.com/Aricode2005/QuantStream.git)
    cd QuantStream
